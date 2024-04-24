@@ -630,6 +630,18 @@
     <Reference Include="nunit.framework">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Pdb">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.Pdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Mdb">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.Mdb.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil.Rocks">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.Rocks.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
