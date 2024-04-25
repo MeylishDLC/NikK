@@ -46,58 +46,77 @@
     <Analyzer Include="G:\Srunity\2023.3.0b5\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UI pack\Scripts\FillValueNumber.cs" />
     <Compile Include="Assets\Trigger.cs" />
     <None Include="Library\PackageCache\com.unity.settings-manager\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.subsystems\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Library\PackageCache\com.unity.modules.jsonserialize\package.json" />
     <None Include="Library\PackageCache\com.unity.burst\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.screencapture\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.cloth\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Library\PackageCache\com.unity.test-framework.performance\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.ai\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
     <None Include="Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\README.txt" />
     <None Include="Library\PackageCache\com.unity.ugui\package.json" />
     <None Include="Library\PackageCache\com.unity.2d.tilemap\package.json" />
     <None Include="Library\PackageCache\com.unity.ext.nunit\package.json" />
     <None Include="Library\PackageCache\com.unity.2d.pixel-perfect\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.assetbundle\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Library\PackageCache\com.unity.modules.imgui\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.tilemap\package.json" />
     <None Include="Library\PackageCache\com.unity.test-framework.performance\ValidationExceptions.json" />
     <None Include="Library\PackageCache\com.unity.timeline\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.accessibility\package.json" />
     <None Include="Library\PackageCache\com.unity.ide.visualstudio\ValidationConfig.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Library\PackageCache\com.unity.modules.terrainphysics\package.json" />
     <None Include="Library\PackageCache\com.unity.mathematics\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Library\PackageCache\com.unity.visualscripting\package.json" />
     <None Include="Library\PackageCache\com.unity.editorcoroutines\package.json" />
     <None Include="Library\PackageCache\com.unity.collab-proxy\package.json" />
     <None Include="Library\PackageCache\com.unity.ugui\PackageConversionData.json" />
     <None Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle\package.json" />
     <None Include="Library\PackageCache\com.unity.ide.visualstudio\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Library\PackageCache\com.unity.modules.imageconversion\package.json" />
     <None Include="Library\PackageCache\com.unity.feature.development\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.unityanalytics\package.json" />
     <None Include="Library\PackageCache\com.unity.ide.rider\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.video\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
     <None Include="Library\PackageCache\com.unity.test-framework\package.json" />
     <None Include="Library\PackageCache\com.unity.nuget.mono-cecil\package.json" />
     <None Include="Library\PackageCache\com.unity.performance.profile-analyzer\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.particlesystem\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.physics2d\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Library\PackageCache\com.unity.modules.vr\package.json" />
     <None Include="Library\PackageCache\com.unity.visualscripting\ValidationExceptions.json" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Library\PackageCache\com.unity.2d.common\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
     <None Include="Library\PackageCache\com.unity.ide.visualstudio\ValidationExceptions.json" />
     <None Include="Library\PackageCache\com.unity.modules.wind\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Library\PackageCache\com.unity.modules.umbra\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Library\PackageCache\com.unity.2d.tilemap.extras\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
     <None Include="Library\PackageCache\com.unity.modules.audio\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.physics\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.vehicles\package.json" />
     <None Include="Library\PackageCache\com.unity.testtools.codecoverage\package.json" />
+    <None Include="Assets\UI pack\Documentation.txt" />
     <None Include="Library\PackageCache\com.unity.modules.unitywebrequestwww\package.json" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio\package.json" />
     <None Include="Library\PackageCache\com.unity.feature.2d\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.hierarchycore\package.json" />
@@ -106,6 +125,7 @@
     <None Include="Library\PackageCache\com.unity.modules.xr\package.json" />
     <None Include="Library\PackageCache\com.unity.ugui\Editor Resources\Shaders\TMP_Properties.cginc" />
     <None Include="Library\PackageCache\com.unity.ugui\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Library\PackageCache\com.unity.modules.director\package.json" />
     <None Include="Library\PackageCache\com.unity.2d.aseprite\package.json" />
     <None Include="Library\PackageCache\com.unity.visualscripting\ValidationConfig.json" />
@@ -113,18 +133,24 @@
     <None Include="Library\PackageCache\com.unity.2d.sprite\package.json" />
     <None Include="Library\PackageCache\com.unity.collections\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.androidjni\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Library\PackageCache\com.unity.ugui\PackageConversionData_Assets.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Library\PackageCache\com.unity.2d.spriteshape\package.json" />
     <None Include="Library\PackageCache\com.unity.mathematics\ValidationExceptions.json" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Library\PackageCache\com.unity.modules.animation\package.json" />
     <None Include="Library\PackageCache\com.unity.2d.animation\package.json" />
     <None Include="Library\PackageCache\com.unity.collections\ValidationExceptions.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Library\PackageCache\com.unity.burst\Unity.Burst.Unsafe.xml" />
     <None Include="Library\PackageCache\com.unity.2d.psdimporter\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.unitywebrequest\package.json" />
     <None Include="Library\PackageCache\com.unity.modules.uielements\package.json" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
     <None Include="Library\PackageCache\com.unity.burst\ValidationConfig.json" />
     <None Include="Library\PackageCache\com.unity.modules.ui\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <Reference Include="UnityEngine">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -452,6 +478,9 @@
     <Reference Include="UnityEditor.XRModule">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\Managed\UnityEngine\UnityEditor.XRModule.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
@@ -463,9 +492,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

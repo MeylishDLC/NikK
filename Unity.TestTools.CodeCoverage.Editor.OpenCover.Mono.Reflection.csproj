@@ -405,6 +405,9 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
@@ -434,9 +437,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

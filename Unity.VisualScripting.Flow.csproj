@@ -54,8 +54,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Ports\ValueInputDefinition.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Animation\BoltAnimationEvent.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Ports\UnitPort.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Logic\NumericComparison.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnDropdownValueChanged.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Logic\NumericComparison.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Collections\Dictionaries\RemoveDictionaryItem.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\EditorBinding\PortLabelAttribute.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Literal.cs" />
@@ -129,8 +129,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Graph\ScriptGraphContainerType.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Input\OnKeyboardInput.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Physics\TriggerEventUnit.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Normalize.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Physics2D\OnTriggerExit2D.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Normalize.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Graph\GetScriptGraphs.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\IObjectVariableUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Hierarchy\OnTransformChildrenChanged.cs" />
@@ -183,8 +183,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\EvaluationVisitor.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4Distance.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Connections\IUnitConnectionDebugData.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Control\SelectUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\ScriptMachine.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Control\SelectUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Codebase\Expose.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Ports\ControlInputDefinition.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Project.cs" />
@@ -240,14 +240,14 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector2\Vector2Multiply.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Nulls\Null.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\LogicalExpression.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Multiply.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Control\Break.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Multiply.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector2\DeprecatedVector2Add.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector3\DeprecatedVector3Add.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Ports\ControlOutput.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\SetSceneVariable.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Physics\OnTriggerExit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\EvaluateFunctionHandler.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Physics\OnTriggerExit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Logic\EqualityComparison.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\GUI\OnPointerEnter.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Graph\GetScriptGraph.cs" />
@@ -314,9 +314,9 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3Divide.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\UnitPortDefinitionCollection.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Variables\Obsolete\ISceneVariableUnit.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\GameObjectEventUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Scalar\ScalarAbsolute.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3Sum.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\GameObjectEventUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector2\Vector2DotProduct.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Hierarchy\OnTransformParentChanged.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\ValueExpression.cs" />
@@ -372,21 +372,21 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Ports\IUnitControlPort.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Connections\ValueConnection.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Nulls\NullCheck.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Physics\OnControllerColliderHit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Graph\SetGraph.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Add.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Time\WaitForNextFrameUnit.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Physics\OnControllerColliderHit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3CrossProduct.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Ports\IUnitInputPort.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Generic\GenericMultiply.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Formula.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Generic\GenericMultiply.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector3\Vector3Average.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Time\Cooldown.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Minimum.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Collections\Lists\ClearList.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Codebase\SetMember.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4PerSecond.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Lifecycle\LateUpdate.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Math\Vector4\Vector4PerSecond.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Time\WaitForEndOfFrameUnit.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Variables\IsVariableDefined.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Logic\And.cs" />
@@ -446,8 +446,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\FlowGraphData.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Dependencies\NCalc\Expression.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Codebase\MemberUnit.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Lifecycle\Start.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\ManualEventUnit.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Framework\Events\Lifecycle\Start.cs" />
     <None Include="Library\PackageCache\com.unity.visualscripting\Runtime\VisualScripting.Flow\Unity.VisualScripting.Flow.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -797,6 +797,9 @@
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.visualscripting\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.ext.nunit\net40\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
@@ -826,9 +829,6 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.nuget.mono-cecil\Mono.Cecil.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Collections.LowLevel.ILSupport">
-      <HintPath>G:\Data\UniProjects\Prjcs\unity\NikK\Library\PackageCache\com.unity.collections\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>G:\Srunity\2023.3.0b5\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
